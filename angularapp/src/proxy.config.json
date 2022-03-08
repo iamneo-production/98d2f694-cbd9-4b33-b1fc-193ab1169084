@@ -1,0 +1,7 @@
+{
+    "/*": {
+        "target": "https://8081-cbccabcededbabffafaadcdfeceadbceedce.examlyiopb.examly.io",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
